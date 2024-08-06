@@ -21,12 +21,12 @@ public class Queue <T> implements Iterable<T>{
     }
 
     public T peek(){
-        if(isEmpty()) throw new RuntimeException("Queue Empty");
+        if(isEmpty()) throw new RuntimeException("main.Queue Empty");
         return list.peekFirst();
     }
 
     public T poll(){
-        if(isEmpty()) throw new RuntimeException("Queue Empty");
+        if(isEmpty()) throw new RuntimeException("main.Queue Empty");
         return list.removeFirst();
     }
 

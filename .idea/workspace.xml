@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c25cb8d-70b5-436e-9054-abfff8dffcf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursiveII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BBSerchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchTreeII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/TreeTraversalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FenwickTree/FenwickTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hashmap/HashTableSeparateChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/IndexedPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuffixArray/SuffixArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/HashTableSeparateChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/PMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFindII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFindIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/TreePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/DynamicArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BinarySearch/AVLTreeRecursiveIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BinarySearch/BinarySearchTreeIITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FenwickTree/FenwickTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Queue/IndexedPQTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Temp/HashTableSeparateChainingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UnionFind/UnionFindIIITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackToBasic-DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BackToBasic-DataStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/DoublyLinkedLIstII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/DoublyLinkedLIstII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp/DynamicArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temp/Listable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Temp/Listable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jbZbDe8xtnG2nqEDYG4VnzJtb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PMP.executor": "Run",
+    "Gradle.DynamicArrayTest.executor": "Run",
+    "JUnit.AVLTreeRecursiveIITest.shouldUpdateHeight.executor": "Run",
+    "JUnit.BinarySearchTreeIITest.executor": "Run",
+    "JUnit.BinarySearchTreeIITest.test.executor": "Run",
+    "JUnit.DynamicArrayTest.executor": "Run",
+    "JUnit.HashTableSeparateChainingTest.shouldFindByKey.executor": "Debug",
+    "JUnit.HashTableSeparateChainingTest.shouldItInsertNewValue.executor": "Run",
+    "JUnit.HashTableSeparateChainingTest.shouldItRemove.executor": "Debug",
+    "JUnit.IndexedPQTest.shouldInsertElement.executor": "Debug",
+    "JUnit.UnionFindIIITest.shouldUnifyElements.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/highandlight/Desktop/JPlayGround/BTB-DataStructure/src/main/java/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Queue" />
+      <recent name="BinarySearch" />
+      <recent name="UnionFind" />
+      <recent name="FenwickTree" />
+      <recent name="Temp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IndexedPQTest.shouldInsertElement">
+    <configuration name="PMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp.PMP" />
+      <module name="BTB-DataStructure.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTreeRecursiveIITest.shouldUpdateHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.AVLTreeRecursiveIITest" />
+      <option name="METHOD_NAME" value="shouldUpdateHeight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableSeparateChainingTest.shouldItInsertNewValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Temp" />
+      <option name="MAIN_CLASS_NAME" value="Temp.HashTableSeparateChainingTest" />
+      <option name="METHOD_NAME" value="shouldItInsertNewValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexedPQTest.shouldInsertElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Queue" />
+      <option name="MAIN_CLASS_NAME" value="Queue.IndexedPQTest" />
+      <option name="METHOD_NAME" value="shouldInsertElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionFindIIITest.shouldUnifyElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnionFind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UnionFind" />
+      <option name="MAIN_CLASS_NAME" value="UnionFind.UnionFindIIITest" />
+      <option name="METHOD_NAME" value="shouldUnifyElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IndexedPQTest.shouldInsertElement" />
+        <item itemvalue="JUnit.AVLTreeRecursiveIITest.shouldUpdateHeight" />
+        <item itemvalue="JUnit.UnionFindIIITest.shouldUnifyElements" />
+        <item itemvalue="Application.PMP" />
+        <item itemvalue="JUnit.HashTableSeparateChainingTest.shouldItInsertNewValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c25cb8d-70b5-436e-9054-abfff8dffcf0" name="Changes" comment="" />
+      <created>1721657808287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721657808287</updated>
+      <workItem from="1721657809822" duration="28115000" />
+      <workItem from="1722255317291" duration="1448000" />
+      <workItem from="1722322079089" duration="196000" />
+      <workItem from="1722332217779" duration="28298000" />
+      <workItem from="1722860630510" duration="4576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Temp/HashTableSeparateChainingTest.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursiveII.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursiveII.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="node.left==null" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursiveII.java</url>
+          <line>73</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="avl.nodeCount" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BTB_DataStructure$IndexedPQTest_shouldInsertElement.ic" NAME="IndexedPQTest.shouldInsertElement Coverage Results" MODIFIED="1722864259793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Queue.*</FILTER>
+    </SUITE>
+  </component>
+</project>
