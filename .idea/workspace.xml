@@ -5,52 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c25cb8d-70b5-436e-9054-abfff8dffcf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/AVLTreeRecursiveII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BBSerchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchTreeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/TreeTraversalOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FenwickTree/FenwickTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hashmap/HashTableSeparateChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/IndexedPQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SuffixArray/SuffixArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/DynamicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/HashTableSeparateChaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Temp/PMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFindII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnionFind/UnionFindIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/TreePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Arrays/DynamicArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BinarySearch/AVLTreeRecursiveIITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BinarySearch/BinarySearchTreeIITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FenwickTree/FenwickTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Queue/IndexedPQTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Temp/HashTableSeparateChainingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UnionFind/UnionFindIIITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackToBasic-DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BackToBasic-DataStructure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/DoublyLinkedLIstII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/DoublyLinkedLIstII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arrays/DoublyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp/DynamicArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Temp/Listable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Temp/Listable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/ArrayStackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Stack/ArrayStackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UnionFind/UnionFindIIITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UnionFind/UnionFindIIITest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +60,9 @@
     "Application.PMP.executor": "Run",
     "Gradle.DynamicArrayTest.executor": "Run",
     "JUnit.AVLTreeRecursiveIITest.shouldUpdateHeight.executor": "Run",
+    "JUnit.ArrayStackTest.shouldPopElement.executor": "Run",
+    "JUnit.ArrayStackTest.shouldPushElement.executor": "Run",
+    "JUnit.ArrayStackTest.shouldThrowEmptyStackException.executor": "Run",
     "JUnit.BinarySearchTreeIITest.executor": "Run",
     "JUnit.BinarySearchTreeIITest.test.executor": "Run",
     "JUnit.DynamicArrayTest.executor": "Run",
@@ -137,27 +99,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Stack" />
       <recent name="Queue" />
       <recent name="BinarySearch" />
       <recent name="UnionFind" />
       <recent name="FenwickTree" />
-      <recent name="Temp" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IndexedPQTest.shouldInsertElement">
-    <configuration name="PMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temp.PMP" />
-      <module name="BTB-DataStructure.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Temp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ArrayStackTest.shouldThrowEmptyStackException">
     <configuration name="AVLTreeRecursiveIITest.shouldUpdateHeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BTB-DataStructure.test" />
       <extension name="coverage">
@@ -174,17 +123,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTableSeparateChainingTest.shouldItInsertNewValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayStackTest.shouldPopElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BTB-DataStructure.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Temp.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Temp" />
-      <option name="MAIN_CLASS_NAME" value="Temp.HashTableSeparateChainingTest" />
-      <option name="METHOD_NAME" value="shouldItInsertNewValue" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.ArrayStackTest" />
+      <option name="METHOD_NAME" value="shouldPopElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStackTest.shouldPushElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.ArrayStackTest" />
+      <option name="METHOD_NAME" value="shouldPushElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayStackTest.shouldThrowEmptyStackException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BTB-DataStructure.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.ArrayStackTest" />
+      <option name="METHOD_NAME" value="shouldThrowEmptyStackException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,29 +187,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnionFindIIITest.shouldUnifyElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BTB-DataStructure.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnionFind.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnionFind" />
-      <option name="MAIN_CLASS_NAME" value="UnionFind.UnionFindIIITest" />
-      <option name="METHOD_NAME" value="shouldUnifyElements" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArrayStackTest.shouldThrowEmptyStackException" />
+        <item itemvalue="JUnit.ArrayStackTest.shouldPopElement" />
+        <item itemvalue="JUnit.ArrayStackTest.shouldPushElement" />
         <item itemvalue="JUnit.IndexedPQTest.shouldInsertElement" />
         <item itemvalue="JUnit.AVLTreeRecursiveIITest.shouldUpdateHeight" />
-        <item itemvalue="JUnit.UnionFindIIITest.shouldUnifyElements" />
-        <item itemvalue="Application.PMP" />
-        <item itemvalue="JUnit.HashTableSeparateChainingTest.shouldItInsertNewValue" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +216,8 @@
       <workItem from="1722255317291" duration="1448000" />
       <workItem from="1722322079089" duration="196000" />
       <workItem from="1722332217779" duration="28298000" />
-      <workItem from="1722860630510" duration="4576000" />
+      <workItem from="1722860630510" duration="5200000" />
+      <workItem from="1723020808146" duration="3189000" />
     </task>
     <servers />
   </component>

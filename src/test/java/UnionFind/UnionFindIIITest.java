@@ -15,6 +15,6 @@ class UnionFindIIITest {
         boolean connected = nf3.connected(1,5);
 
         assertTrue(connected);
-    }
+     }
 
 }
